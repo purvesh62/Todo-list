@@ -1,3 +1,3 @@
 # todo-list
 Todo List using Vanilla JavaScript
-https://purvesh62.github.io/todolist.github.io/
+https://purvesh62.github.io/todolist/
